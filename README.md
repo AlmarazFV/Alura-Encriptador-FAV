@@ -2,7 +2,7 @@
 
 Esta aplicación web permite encriptar y desencriptar texto utilizando reglas específicas de sustitución de caracteres. 
 
-- Estado del proyecto: En construcción.
+- Estado del proyecto: Finalizado.
 - Desarrollado por: Fernando Almaraz Vences, 2024.
 
 ## Uso
